@@ -1,2 +1,4 @@
 # RL-Android
-Reinforcement Learning combines with Android Malware Detection，using Caffe
+Reinforcement Learning combines with Android Malware Detection, using Caffe  
+
+Keep Updating
